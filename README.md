@@ -4,7 +4,7 @@ Enjoy playing the Pomodoro Game!
 
 ## Screenshots
 
-![Pomodoro Game Screenshot]("C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2024-01-21 175625.png")
+![Pomodora Timer](https://github.com/Abhiyank51/Pomodora-Timer/blob/main/Screenshot%202024-01-21%20175606.png)
 
 
 ## Technologies Used
