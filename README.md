@@ -4,7 +4,8 @@ Enjoy playing the Pomodoro Game!
 
 ## Screenshots
 
-![Pomodoro Game Screenshot](/images)
+![Pomodoro Game Screenshot]("C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2024-01-21 175625.png")
+
 
 ## Technologies Used
 
