@@ -4,7 +4,7 @@ Enjoy playing the Pomodoro Game!
 
 ## Screenshots
 
-![Pomodoro Game Screenshot](./images/screenshot.png)
+![Pomodoro Game Screenshot](/images)
 
 ## Technologies Used
 
@@ -12,11 +12,7 @@ Enjoy playing the Pomodoro Game!
 
 ## Acknowledgments
 
-This project is inspired by the 100 Days of Python course on Udemy. Special thanks to [Instructor Name](https://www.udemy.com/user/instructor-name/) for the comprehensive guidance and inspiration throughout the course.
-
-## Contributing
-
-If you'd like to contribute to this project, please follow the [contribution guidelines](CONTRIBUTING.md).
+This project is inspired by the 100 Days of Python course on Udemy. Special thanks to 100 days of Python Udemy for the comprehensive guidance and inspiration throughout the course.
 
 ## License
 
